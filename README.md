@@ -1,7 +1,11 @@
 # Tiva-C-PWM-Energia
 This Project is made to Setup and Control PWM pins of Tiva C (tm4c123gh6pm) With Energia
 
-User can set the frequency and the desired duty ratio instead of the fixed frequency of the analogWrite() function in Energia
+NOTE: Not tested yet
+
+It is supposed to allow the user to do the following:
+
+1- User can set the frequency and the desired duty ratio instead of the fixed frequency of the analogWrite() function in Energia
 
 Usage:
 
