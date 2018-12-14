@@ -9,6 +9,7 @@ Purpose: This Project is made to Setup and Control PWM pins of Tiva C (tm4c123gh
 It is supposed to allow the user to do the following:
 
 1- User can set the frequency and the desired duty ratio instead of the fixed frequency of the analogWrite() function in Energia
+Check the top of the _BASE.h file for pin numbering
 
 2- User can use a complement of PWM on two pins with deadband inserted
 
